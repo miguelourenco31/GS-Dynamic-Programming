@@ -46,7 +46,9 @@ Requisitos:
 - Python 3.8 ou superior.
 
 Comando:
+
 bash
+
 python garagem_autonoma.py 
 
 ---
