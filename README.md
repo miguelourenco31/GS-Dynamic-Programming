@@ -49,7 +49,7 @@ Comando:
 bash
 python garagem_autonoma.py 
 
-
+---
 
 Relação com o Projeto “Garagem Autônoma de Logística”
 
@@ -76,7 +76,9 @@ podem ser aplicadas em cenários reais de automação e sustentabilidade —
 alinhando o projeto aos temas do Futuro do Trabalho e dos ODS da ONU
 (energia limpa, trabalho digno e inovação sustentável).
 
-🧠 Tecnologias Utilizadas
+---
+
+Tecnologias Utilizadas
 
 - Python 3
 - Programação Dinâmica
