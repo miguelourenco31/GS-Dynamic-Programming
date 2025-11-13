@@ -1,8 +1,5 @@
-#!/usr/bin/env python3
 """
-garagem_autonoma.py
-
-Implementa quatro versões do Problema da Mochila 0/1,
+Esse código implementa quatro versões do Problema da Mochila 0/1,
 aplicado ao contexto do projeto “Garagem Autônoma de Logística”.
 
 Fases:
@@ -206,3 +203,4 @@ def executar_testes():
 
 if __name__ == "__main__":
     executar_testes()
+
